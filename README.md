@@ -2,9 +2,8 @@
 
 ### About me
 
-🗺 Spanish, English.
-🏳️‍🌈 He/Him.
-
+* 🗺 Spanish, English.
+* 🏳️‍🌈 He/Him.
 * 🎮 Game developer.
 * 🏗 Software architecture & development processes enthusiast.
 
@@ -33,11 +32,7 @@
 <img align="left" width="26px" height="26px" title="Tenjin" alt="Tenjin" src="./assets/tenjin-logo.png" />
 <img align="left" width="26px" height="26px" title="IronSource" alt="IronSource" src="./assets/ironsource-logo.jpg" />
 
-<br />
-<br />
-
 ---
-
 
 ## Readings
 
@@ -127,7 +122,5 @@
 ### Technologies used in these repos
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Culoextremo&hide_border=false&theme=midnight-purple&layout=compact)
-
----
 
 <br />
