@@ -34,10 +34,10 @@
 <img align="left" width="26px" height="26px" title="IronSource" alt="IronSource" src="./assets/ironsource-logo.jpg" />
 
 <br />
+<br />
 
 ---
 
-<br />
 
 ## Readings
 
