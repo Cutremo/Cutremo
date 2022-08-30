@@ -14,7 +14,7 @@
 <img align="left" width="26px" height="26px" title="Unity" alt="Unity" src="./assets/unity-logo.png" />
 <img align="left" width="26px" height="26px" title="Git" alt="Git" src="./assets/git-logo.png" />
 <img align="left" width="26px" height="26px" title="NUnit" alt="NUnit" src="./assets/nunit-logo.png" />
-<img align="left" width="26px" height="26px" title="UML" alt="UML" src="./assets/uml-logo.gif" />
+<img align="left" width="24px" height="26px" title="UML" alt="UML" src="./assets/uml-logo.gif" />
 <img align="left" width="26px" height="26px" title="Markdown" alt="Markdown" src="./assets/markdown-logo.png" />
 <img align="left" width="26px" height="26px" title="Jetbrains Rider" alt="Jetbrains Rider" src="./assets/rider-logo.png" />
 <img align="left" width="26px" height="26px" title="Zenject" alt="Zenject" src="./assets/zenject-logo.png" />
@@ -33,7 +33,11 @@
 <img align="left" width="26px" height="26px" title="Tenjin" alt="Tenjin" src="./assets/tenjin-logo.png" />
 <img align="left" width="26px" height="26px" title="IronSource" alt="IronSource" src="./assets/ironsource-logo.jpg" />
 
+<br />
+
 ---
+
+<br />
 
 ## Readings
 
@@ -100,6 +104,8 @@
 * The Humble Programmer; Edsger W. Dijkstra. ⭐️
 * No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks. ⭐️
 
+---
+
 ## Cool Presentations (Under Construction)
 
 * Patterns of Effective Teams • Dan North • GOTO 2017. ⭐️ 🚀️
@@ -108,4 +114,21 @@
 * Disentangle the Data Enterprise Spaghetti to continuous delivery; Kenny Baas. ⭐️
 * Architecting The Unknown - SATURN 2016 Keynote; Grady Booch. 🚀️
 
+---
 
+<br />
+
+## Recent activity
+
+### GitHub
+
+[Culoextremo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Culoextremo&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&count_private=true&hide=stars&theme=midnight-purple)
+
+### Technologies used in these repos
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Culoextremo&hide_border=false&theme=midnight-purple&layout=compact)
+
+
+---
+
+<br />
