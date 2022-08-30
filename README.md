@@ -1,6 +1,6 @@
-## About me
-
 ### Hello! I'm [Ángel Siendones Sillero](https://www.linkedin.com/in/angel-siendones-sillero/)! (/0.0)/
+
+### About me
 
 🗺 Spanish, English.
 🏳️‍🌈 He/Him.
@@ -10,31 +10,30 @@
 
 ## Technologies I'm used to
 
-![Unity](./assets/unity-logo.png)!
+<img align="left" width="26px" height="26px" title="C#" alt="C#" src="./assets/csharp-logo.png" />
+<img align="left" width="26px" height="26px" title="Unity" alt="Unity" src="./assets/unity-logo.png" />
+<img align="left" width="26px" height="26px" title="Git" alt="Git" src="./assets/git-logo.png" />
+<img align="left" width="26px" height="26px" title="NUnit" alt="NUnit" src="./assets/nunit-logo.png" />
+<img align="left" width="26px" height="26px" title="UML" alt="UML" src="./assets/uml-logo.gif" />
+<img align="left" width="26px" height="26px" title="Markdown" alt="Markdown" src="./assets/markdown-logo.png" />
+<img align="left" width="26px" height="26px" title="Jetbrains Rider" alt="Jetbrains Rider" src="./assets/rider-logo.png" />
+<img align="left" width="26px" height="26px" title="Zenject" alt="Zenject" src="./assets/zenject-logo.png" />
+<img align="left" width="26px" height="26px" title="Slack" alt="Slack" src="./assets/slack-logo.png" />
+<img align="left" width="26px" height="26px" title="Plant UML" alt="Plant UML" src="./assets/plantuml-logo.svg" />
+<img align="left" width="26px" height="26px" title="Github" alt="Github" src="./assets/github-logo.png" />
+<img align="left" width="26px" height="26px" title="Gitlab" alt="Gitlab" src="./assets/gitlab-logo.png" />
+<img align="left" width="26px" height="26px" title="Taiga" alt="Taiga" src="./assets/taiga-logo.png" />
+<img align="left" width="26px" height="26px" title="Confluence" alt="Confluence" src="./assets/confluence-logo.png" />
+<img align="left" width="26px" height="26px" title="Trello" alt="Trello" src="./assets/trello-logo.png" />
+<img align="left" width="26px" height="26px" title="Rewired" alt="Rewired" src="./assets/rewired-logo.png" />
+<img align="left" width="26px" height="26px" title="I2 Localization" alt="I2 Localization" src="./assets/i2loc-logo.png" />
+<img align="left" width="26px" height="26px" title="Odin Inspector" alt="Odin Inspector" src="./assets/odin-logo.png" />
+<img align="left" width="26px" height="26px" title="Discord" alt="Discord" src="./assets/discord-logo.png" />
+<img align="left" width="26px" height="26px" title="Firebase" alt="Firebase" src="./assets/firebase-logo.png" />
+<img align="left" width="26px" height="26px" title="Tenjin" alt="Tenjin" src="./assets/tenjin-logo.png" />
+<img align="left" width="26px" height="26px" title="IronSource" alt="IronSource" src="./assets/ironsource-logo.jpg" />
 
-![C#](./assets/csharp-logo.png)
-![Git](./assets/git-logo.png)
-![NUnit](./assets/nunit-logo.png)
-![UML](./assets/uml-logo.gif)
-![Markdown](./assets/markdown-logo.png)
-![Sourcetree](./assets/sourcetree-logo.png)
-![Discord](./assets/discord-logo.png)
-![Zenject](./assets/zenject-logo.png)
-![Slack](./assets/slack-logo.png)
-![Github](./assets/github-logo.png)
-![Taiga](./assets/taiga-logo.png)
-![Plant UML](./assets/plantuml-logo.svg)
-![Odin Inspector](./assets/odin-logo.png)
-![Jetbrains Rider](./assets/rider-logo.png)
-![Gitlab](./assets/gitlab-logo.png)
-![Confluence](./assets/confluence-logo.png)
-![Trello](./assets/trello-logo.png)
-![DarkRift 2](./assets/darkrift-logo.webp)
-![Firebase](./assets/firebase-logo.png)
-![IronSource](./assets/ironsource-logo.png)
-![Tenjin](./assets/tenjin-logo.png)
-![I2 Localization](./assets/i2loc-logo.png)
-![Rewired](./assets/rewired-logo.png)
+---
 
 ## Readings
 
@@ -108,3 +107,5 @@
 * Overthrowing the MonoBehaviour Tyranny in a Glorious Scriptable Object Revolution - Unite 2016; Richard Fine.  🚀️
 * Disentangle the Data Enterprise Spaghetti to continuous delivery; Kenny Baas. ⭐️
 * Architecting The Unknown - SATURN 2016 Keynote; Grady Booch. 🚀️
+
+
