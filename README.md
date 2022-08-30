@@ -14,7 +14,7 @@
 <img align="left" width="26px" height="26px" title="Unity" alt="Unity" src="./assets/unity-logo.png" />
 <img align="left" width="26px" height="26px" title="Git" alt="Git" src="./assets/git-logo.png" />
 <img align="left" width="26px" height="26px" title="NUnit" alt="NUnit" src="./assets/nunit-logo.png" />
-<img align="left" width="24px" height="26px" title="UML" alt="UML" src="./assets/uml-logo.gif" />
+<img align="left" width="26px" height="26px" title="UML" alt="UML" src="./assets/uml-logo.png" />
 <img align="left" width="26px" height="26px" title="Markdown" alt="Markdown" src="./assets/markdown-logo.png" />
 <img align="left" width="26px" height="26px" title="Jetbrains Rider" alt="Jetbrains Rider" src="./assets/rider-logo.png" />
 <img align="left" width="26px" height="26px" title="Zenject" alt="Zenject" src="./assets/zenject-logo.png" />
@@ -127,7 +127,6 @@
 ### Technologies used in these repos
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Culoextremo&hide_border=false&theme=midnight-purple&layout=compact)
-
 
 ---
 
