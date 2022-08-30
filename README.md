@@ -49,7 +49,7 @@
 📖 Current readings:
 
 * Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition; Fred Brooks. ⭐️
-* C# for C# Developers; Jackson Dustan.
+* C++ for C# Developers; Jackson Dustan.
 
 📕 Previous readings:
 
