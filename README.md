@@ -31,6 +31,7 @@
 <img align="left" width="26px" height="26px" title="Firebase" alt="Firebase" src="./assets/firebase-logo.png" />
 <img align="left" width="26px" height="26px" title="Tenjin" alt="Tenjin" src="./assets/tenjin-logo.png" />
 <img align="left" width="26px" height="26px" title="IronSource" alt="IronSource" src="./assets/ironsource-logo.jpg" />
+<img align="left" width="26px" height="26px" title="Dark Rift 2 Networking" alt="Dark Rift 2 Networking" src="./assets/darkrift-logo.webp" />
 
 <br />
 <br />
