@@ -49,8 +49,9 @@
 
 📖 Current readings:
 
-* Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition; Fred Brooks. ⭐️
 * C++ for C# Developers; Jackson Dustan.
+* Object-Oriented Programming. An Objetive Sense of Style; K.Lieberherr, I.Holland, A.Riel
+* Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland
 
 📕 Previous readings:
 
@@ -62,7 +63,8 @@
 * Game Programming Patterns; Robert Mystrom.
 * The Gamedev Business Handbook; Michael Futter.
 * Theory of Fun for Game Design; Raph Koster.
-* Clean Code: A Handbook of Agile Software Craftsmanship Robert Martin. 🚀️
+* Clean Code: A Handbook of Agile Software Craftsmanship; Robert Martin. 🚀️
+* Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition; Fred Brooks. ⭐️
 
 🔍 Next readings:
 
@@ -80,10 +82,8 @@
 * Object Oriented Software Construction; Bertrand Meyer.
 * Extreme Programming Adventures in C#; Ron Jeffries.
 * Patterns of Enterprise Application Architecture; Martin Fowler
-* Assuring good style for object-oriented programs; Karl Lieberherr, Ian Holland.
 * Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation; Dave Farley & Jez Humble.
 * Extreme Programming Installed; Ron Jeffries.
-* Object Oriented Analysis and Design with Applications; Grady Booch.
 * The Art of Unit Testing; Roy Osherove.
 * C# In Depth; Jon Skeet.
 * The Pragmatic Programmer.
