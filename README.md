@@ -52,6 +52,7 @@
 * C++ for C# Developers; Jackson Dustan.
 * Object-Oriented Programming. An Objetive Sense of Style; K.Lieberherr, I.Holland, A.Riel
 * Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland
+* Unit Testing Principles, Practices and Patterns; Vladimir Khorikov.
 
 📕 Previous readings:
 
@@ -74,7 +75,6 @@
 * Refactoring: Improving the Design of Existing Code; Martin Fowler.
 * Working Effectively with Legacy Code; Michael C. Feathers.
 * Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
-* Unit Testing Principles, Practices and Patterns; Vladimir Khorikov.
 
 💎 Future readings:
 
