@@ -51,9 +51,7 @@
 
 * C++ for C# Developers; Jackson Dustan.
 * Object-Oriented Programming. An Objetive Sense of Style; K.Lieberherr, I.Holland, A.Riel
-* Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland
-* UML Distilled 3rd Ed; Martin Fowler.
-* Working Effectively with Legacy Code; Michael C. Feathers.
+* Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland 
 
 📕 Previous readings:
 
@@ -70,6 +68,8 @@
 * Unit Testing Principles, Practices and Patterns; Vladimir Khorikov. ⭐️
 * The Humble Programmer; Edsger W. Dijkstra. ⭐️
 * No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks. ⭐️
+* UML Distilled 3rd Ed; Martin Fowler. ⭐️
+* Working Effectively with Legacy Code; Michael C. Feathers. ⭐️
 
 🔍 Next readings:
 
