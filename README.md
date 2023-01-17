@@ -52,6 +52,8 @@
 * C++ for C# Developers; Jackson Dustan.
 * Object-Oriented Programming. An Objetive Sense of Style; K.Lieberherr, I.Holland, A.Riel
 * Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland 
+* Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh.
+* Continuous Integration: Improving Software Quality and Reducing Risk; Paul M. Duvall, Steve Matyas, Andrew Glover
 
 📕 Previous readings:
 
@@ -76,7 +78,6 @@
 * Design By Contract; Bertrand Meyer.
 * Refactoring: Improving the Design of Existing Code; Martin Fowler.
 * Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
-* Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh.
 * Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation; Dave Farley & Jez Humble.
 * Object Oriented Analysis and Design with Applications; Grady Booch.
 * Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
