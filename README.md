@@ -100,6 +100,8 @@
 * Unity Shaders Bible; Fabrizio Espíndola.
 * Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 * Surviving Object Oriented Projects; Alistair Cockburn.
+* Planning Extreme Programming; Kent Beck, Martin Fowler.
+* Measuring and Managing Performance in Organizations; Robert D. Austin, Tom DeMarco, Timothy Lister
 
 ---
 
