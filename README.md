@@ -102,7 +102,8 @@
 * Surviving Object Oriented Projects; Alistair Cockburn.
 * Planning Extreme Programming; Kent Beck, Martin Fowler.
 * Measuring and Managing Performance in Organizations; Robert D. Austin, Tom DeMarco, Timothy Lister
-
+* What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry; Steven Levy
+* The Ghost of the Executed Engineer: Technology and the Fall of the Soviet Union; Loren R. Graham
 ---
 
 <br />
