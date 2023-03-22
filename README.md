@@ -53,7 +53,6 @@
 * Object-Oriented Programming. An Objetive Sense of Style; K.Lieberherr, I.Holland, A.Riel
 * Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland 
 * Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh.
-* Continuous Integration: Improving Software Quality and Reducing Risk; Paul M. Duvall, Steve Matyas, Andrew Glover
 
 📕 Previous readings:
 
@@ -72,6 +71,7 @@
 * No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks. ⭐️
 * UML Distilled 3rd Ed; Martin Fowler. ⭐️
 * Working Effectively with Legacy Code; Michael C. Feathers. ⭐️
+* Continuous Integration: Improving Software Quality and Reducing Risk; Paul M. Duvall, Steve Matyas, Andrew Glover
 
 🔍 Next readings:
 
@@ -81,6 +81,7 @@
 * Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation; Dave Farley & Jez Humble.
 * Object Oriented Analysis and Design with Applications; Grady Booch.
 * Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
+* Five Lines of Code: How and when to refactor; Christian Clausen
 
 💎 Future readings:
 
