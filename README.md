@@ -53,6 +53,7 @@
 * Object-Oriented Programming. An Objetive Sense of Style; K.Lieberherr, I.Holland, A.Riel
 * Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland 
 * Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh.
+* Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
 
 📕 Previous readings:
 
@@ -80,7 +81,6 @@
 * Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
 * Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation; Dave Farley & Jez Humble.
 * Object Oriented Analysis and Design with Applications; Grady Booch.
-* Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
 * Five Lines of Code: How and when to refactor; Christian Clausen
 
 💎 Future readings:
