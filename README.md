@@ -3,7 +3,7 @@
 ### About me
 
 * 🗺 Spanish, English.
-* 🏳️‍🌈 He/Him.
+* 🏳️‍🌈 He/Him - They/Them.
 * 🎮 Game developer.
 * 🏗 Software architecture & development processes enthusiast.
 
