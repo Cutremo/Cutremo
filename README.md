@@ -4,7 +4,7 @@
 
 * 🗺 Spanish, English.
 * 🏳️‍🌈 He/Him - They/Them.
-* 🎮 Game developer.
+* 🎮 Software Engineer / Game developer.
 * 🏗 Software architecture & development processes enthusiast.
 
 ## Technologies I'm used to
@@ -54,7 +54,8 @@
 * Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland 
 * Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh.
 * Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
-
+* Functional Programming in C#; Enrico Buonanno
+  
 📕 Previous readings:
 
 * TDD by Example; Kent Beck. ⭐️ 🚀️
