@@ -54,7 +54,6 @@
 * Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland 
 * Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh.
 * Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
-* Functional Programming in C#; Enrico Buonanno
   
 📕 Previous readings:
 
@@ -74,6 +73,7 @@
 * UML Distilled 3rd Ed; Martin Fowler. ⭐️
 * Working Effectively with Legacy Code; Michael C. Feathers. ⭐️
 * Continuous Integration: Improving Software Quality and Reducing Risk; Paul M. Duvall, Steve Matyas, Andrew Glover
+* Functional Programming in C#; Enrico Buonanno
 
 🔍 Next readings:
 
