@@ -49,12 +49,13 @@
 
 📖 Current readings:
 
-* C++ for C# Developers; Jackson Dustan.
 * Object-Oriented Programming. An Objetive Sense of Style; K.Lieberherr, I.Holland, A.Riel
 * Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland 
 * Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh.
 * Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
-  
+* Team of Teams: New Rules of Engagement for a Complex World; Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
+* The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
+
 📕 Previous readings:
 
 * TDD by Example; Kent Beck. ⭐️ 🚀️
@@ -106,6 +107,10 @@
 * Measuring and Managing Performance in Organizations; Robert D. Austin, Tom DeMarco, Timothy Lister
 * What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry; Steven Levy
 * The Ghost of the Executed Engineer: Technology and the Fall of the Soviet Union; Loren R. Graham
+
+⚽ Dropped
+* C++ for C# Developers; Jackson Dustan.
+
 ---
 
 <br />
