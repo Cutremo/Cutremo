@@ -52,7 +52,6 @@
 * Object-Oriented Programming. An Objetive Sense of Style; K.Lieberherr, I.Holland, A.Riel
 * Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland 
 * Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh.
-* Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
 * Team of Teams: New Rules of Engagement for a Complex World; Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
 * The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
 
@@ -75,6 +74,7 @@
 * Working Effectively with Legacy Code; Michael C. Feathers. ⭐️
 * Continuous Integration: Improving Software Quality and Reducing Risk; Paul M. Duvall, Steve Matyas, Andrew Glover
 * Functional Programming in C#; Enrico Buonanno
+* Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
 
 🔍 Next readings:
 
