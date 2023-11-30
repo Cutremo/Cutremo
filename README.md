@@ -91,17 +91,13 @@
 * Extreme Programming Adventures in C#; Ron Jeffries.
 * Patterns of Enterprise Application Architecture; Martin Fowler
 * Extreme Programming Installed; Ron Jeffries.
-* The Art of Unit Testing; Roy Osherove.
 * C# In Depth; Jon Skeet.
-* The Pragmatic Programmer.
 * xUnit Test Patterns Refactoring Test Code; Gerard Meszaros.
 * The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 * Code Complete, 2nd Edition; Steve McConnell.
 * A Playful Production Process: For Game Designers (and Everyone); Richard Lemarchand.
-* Design Patterns Elements of Reusable Object-Oriented Design.
 * Game Engine Architecture; Jason Gregory.
 * Unity Shaders Bible; Fabrizio Espíndola.
-* Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 * Surviving Object Oriented Projects; Alistair Cockburn.
 * Planning Extreme Programming; Kent Beck, Martin Fowler.
 * Measuring and Managing Performance in Organizations; Robert D. Austin, Tom DeMarco, Timothy Lister
