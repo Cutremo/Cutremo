@@ -3,9 +3,8 @@
 ### About me
 
 * 🗺 Spanish, English.
-* 🏳️‍🌈 He/Him - They/Them.
-* 🎮 Software Engineer / Game developer.
-* 🏗 Software architecture & development processes enthusiast.
+* 🏳️‍🌈 Any Pronouns.
+* 🎮 Software Craftperson / Game developer.
 
 ## Technologies I'm used to
 
@@ -75,6 +74,7 @@
 * Continuous Integration: Improving Software Quality and Reducing Risk; Paul M. Duvall, Steve Matyas, Andrew Glover
 * Functional Programming in C#; Enrico Buonanno
 * Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
+* Technical Agile Coaching with the Samman method; Emily Bache, Kent Beck
 
 🔍 Next readings:
 
