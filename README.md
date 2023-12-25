@@ -71,10 +71,11 @@
 * No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks. ⭐️
 * UML Distilled 3rd Ed; Martin Fowler. ⭐️
 * Working Effectively with Legacy Code; Michael C. Feathers. ⭐️
-* Continuous Integration: Improving Software Quality and Reducing Risk; Paul M. Duvall, Steve Matyas, Andrew Glover
+* Continuous Integration: Improving Software Quality and Reducing Risk; Paul M. Duvall, Steve Matyas, Andrew Glover.
 * Functional Programming in C#; Enrico Buonanno
 * Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
-* Technical Agile Coaching with the Samman method; Emily Bache, Kent Beck
+* Technical Agile Coaching with the Samman method; Emily Bache, Kent Beck.
+* Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing; Elisabeth Hendrickson. ⭐️
 
 🔍 Next readings:
 
