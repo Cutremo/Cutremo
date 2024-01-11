@@ -76,6 +76,7 @@
 * Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
 * Technical Agile Coaching with the Samman method; Emily Bache, Kent Beck.
 * Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing; Elisabeth Hendrickson. ⭐️
+* Tidy First?: A Personal Exercise in Empirical Software Design; Kent Beck
 
 🔍 Next readings:
 
