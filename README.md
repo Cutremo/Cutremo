@@ -50,7 +50,6 @@
 
 * Object-Oriented Programming. An Objetive Sense of Style; K.Lieberherr, I.Holland, A.Riel
 * Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland 
-* Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh.
 * Team of Teams: New Rules of Engagement for a Complex World; Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
 * The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
 
@@ -77,6 +76,8 @@
 * Technical Agile Coaching with the Samman method; Emily Bache, Kent Beck.
 * Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing; Elisabeth Hendrickson. ⭐️
 * Tidy First?: A Personal Exercise in Empirical Software Design; Kent Beck
+* Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh. 🚀️
+
 
 🔍 Next readings:
 
