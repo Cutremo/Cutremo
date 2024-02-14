@@ -52,7 +52,10 @@
 * Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland 
 * Team of Teams: New Rules of Engagement for a Complex World; Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
 * The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
+* Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations; Nicole Forsgren PhD, Jez Humble, Gene Kim
+* Planning Extreme Programming; Kent Beck, Martin Fowler
 
+   
 📕 Previous readings:
 
 * TDD by Example; Kent Beck. ⭐️ 🚀️
@@ -77,6 +80,7 @@
 * Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing; Elisabeth Hendrickson. ⭐️
 * Tidy First?: A Personal Exercise in Empirical Software Design; Kent Beck
 * Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh. 🚀️
+* Idea Flow: How to Measure the PAIN in Software Development; Arty Starr. ⭐️ 🚀️
 
 
 🔍 Next readings:
@@ -87,6 +91,7 @@
 * Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation; Dave Farley & Jez Humble.
 * Object Oriented Analysis and Design with Applications; Grady Booch.
 * Five Lines of Code: How and when to refactor; Christian Clausen
+
 
 💎 Future readings:
 
@@ -102,7 +107,6 @@
 * Game Engine Architecture; Jason Gregory.
 * Unity Shaders Bible; Fabrizio Espíndola.
 * Surviving Object Oriented Projects; Alistair Cockburn.
-* Planning Extreme Programming; Kent Beck, Martin Fowler.
 * Measuring and Managing Performance in Organizations; Robert D. Austin, Tom DeMarco, Timothy Lister
 * What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry; Steven Levy
 * The Ghost of the Executed Engineer: Technology and the Fall of the Soviet Union; Loren R. Graham
