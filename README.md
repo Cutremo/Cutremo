@@ -2,38 +2,33 @@
 
 ### About me
 
-* 🗺 Spanish, English.
+* 🗺 Spanish, English, 日本語.
 * 🏳️‍🌈 Any Pronouns.
-* 🎮 Software Craftperson / Game developer.
+* 🎮 Software Craftperson, Game developer.
+* 🏛️🗼 Strong interest in well-known, established software principles.
+* 👥🤝 Team culture as a cornerstone.
 
-## Technologies I'm used to
+## Technologies / Buzzwords I'm used to
 
-<img align="left" width="26px" height="26px" title="C#" alt="C#" src="./assets/csharp-logo.png" />
-<img align="left" width="26px" height="26px" title="Unity" alt="Unity" src="./assets/unity-logo.png" />
-<img align="left" width="26px" height="26px" title="Git" alt="Git" src="./assets/git-logo.png" />
-<img align="left" width="26px" height="26px" title="NUnit" alt="NUnit" src="./assets/nunit-logo.png" />
-<img align="left" width="26px" height="26px" title="UML" alt="UML" src="./assets/uml-logo.png" />
-<img align="left" width="26px" height="26px" title="Markdown" alt="Markdown" src="./assets/markdown-logo.png" />
-<img align="left" width="26px" height="26px" title="Jetbrains Rider" alt="Jetbrains Rider" src="./assets/rider-logo.png" />
-<img align="left" width="26px" height="26px" title="Zenject" alt="Zenject" src="./assets/zenject-logo.png" />
-<img align="left" width="26px" height="26px" title="Slack" alt="Slack" src="./assets/slack-logo.png" />
-<img align="left" width="26px" height="26px" title="Plant UML" alt="Plant UML" src="./assets/plantuml-logo.svg" />
-<img align="left" width="26px" height="26px" title="Github" alt="Github" src="./assets/github-logo.png" />
-<img align="left" width="26px" height="26px" title="Gitlab" alt="Gitlab" src="./assets/gitlab-logo.png" />
-<img align="left" width="26px" height="26px" title="Taiga" alt="Taiga" src="./assets/taiga-logo.png" />
-<img align="left" width="26px" height="26px" title="Confluence" alt="Confluence" src="./assets/confluence-logo.png" />
-<img align="left" width="26px" height="26px" title="Trello" alt="Trello" src="./assets/trello-logo.png" />
-<img align="left" width="26px" height="26px" title="Rewired" alt="Rewired" src="./assets/rewired-logo.png" />
-<img align="left" width="26px" height="26px" title="I2 Localization" alt="I2 Localization" src="./assets/i2loc-logo.png" />
-<img align="left" width="26px" height="26px" title="Odin Inspector" alt="Odin Inspector" src="./assets/odin-logo.png" />
-<img align="left" width="26px" height="26px" title="Discord" alt="Discord" src="./assets/discord-logo.png" />
-<img align="left" width="26px" height="26px" title="Firebase" alt="Firebase" src="./assets/firebase-logo.png" />
-<img align="left" width="26px" height="26px" title="Tenjin" alt="Tenjin" src="./assets/tenjin-logo.png" />
-<img align="left" width="26px" height="26px" title="IronSource" alt="IronSource" src="./assets/ironsource-logo.jpg" />
-<img align="left" width="26px" height="26px" title="Dark Rift 2 Networking" alt="Dark Rift 2 Networking" src="./assets/darkrift-logo.webp" />
+<img align="left" height="26px" title="C#" alt="C#" src="./assets/csharp-logo.png" />
+<img align="left" height="26px" title="Unity" alt="Unity" src="./assets/unity-logo.png" />
+<img align="left" height="26px" title="C++" alt="C++" src="./assets/c++-logo.png" />
+<img align="left" height="26px" title="Go" alt="Go" src="./assets/go-logo.png" />
+<img align="left" height="26px" title="Html Css Js" alt="Html Css Js" src="./assets/html-css-js-logo.png" />
+<img align="left" height="26px" title="TS" alt="TS" src="./assets/ts-logo.png" />
+<img align="left" height="26px" title="Git" alt="Git" src="./assets/git-logo.png" />
+<img align="left" height="26px" title="NUnit" alt="NUnit" src="./assets/nunit-logo.png" />
+<img align="left" height="26px" title="UML" alt="UML" src="./assets/uml-logo.png" />
+<img align="left" height="26px" title="Steam" alt="Steam" src="./assets/steam-logo.png" />
 
-<br />
-<br />
+TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programming | Mentoring 
+
+## My articles:
+
+* [Katandem, a proposed practice for code retreats](https://www.linkedin.com/pulse/katandem-proposed-practice-code-retreats-%25C3%25A1ngel-siendones-sillero/?trackingId=6X6faDtsSQOCrA82riWTYA%3D%3D)
+* [[EN/ES] Jintanjaphore-driven naming (formerly "jakhdjkahsd")](https://www.linkedin.com/pulse/enes-jintanjaphore-driven-naming-formerly-jakhdjkahsd-guzm%25C3%25A1n-velasco-f2xlf/?trackingId=C97cgbprQumTvGy7PpJxeA%3D%3D)
+* [[EN/ES] Guild Based Software](https://www.linkedin.com/pulse/enes-guild-based-software-alejandro-lozano-jim%2525C3%2525A9nez-ev1jf%3FtrackingId=I%252BASIZZxQH25r1yEuorHeA%253D%253D/?trackingId=I%2BASIZZxQH25r1yEuorHeA%3D%3D)
+* [Los videojuegos: Ocio o negocio](https://medium.com/@culoextremo/los-videojuegos-ocio-o-negocio-ba08b020005b)
 
 ---
 
@@ -49,13 +44,12 @@
 📖 Current readings:
 
 * Object-Oriented Programming. An Objetive Sense of Style; K.Lieberherr, I.Holland, A.Riel
-* Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland 
+* Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland
 * Team of Teams: New Rules of Engagement for a Complex World; Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
 * The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
 * Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations; Nicole Forsgren PhD, Jez Humble, Gene Kim
 * Planning Extreme Programming; Kent Beck, Martin Fowler
 
-   
 📕 Previous readings:
 
 * TDD by Example; Kent Beck. ⭐️ 🚀️
@@ -82,7 +76,6 @@
 * Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh. 🚀️
 * Idea Flow: How to Measure the PAIN in Software Development; Arty Starr. ⭐️ 🚀️
 
-
 🔍 Next readings:
 
 * Design By Contract; Bertrand Meyer.
@@ -91,7 +84,6 @@
 * Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation; Dave Farley & Jez Humble.
 * Object Oriented Analysis and Design with Applications; Grady Booch.
 * Five Lines of Code: How and when to refactor; Christian Clausen
-
 
 💎 Future readings:
 
@@ -112,6 +104,7 @@
 * The Ghost of the Executed Engineer: Technology and the Fall of the Soviet Union; Loren R. Graham
 
 ⚽ Dropped
+
 * C++ for C# Developers; Jackson Dustan.
 
 ---
