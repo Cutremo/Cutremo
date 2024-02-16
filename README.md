@@ -9,6 +9,8 @@
 * 👥🤝 Team culture as a cornerstone.
 
 ## Technologies / Buzzwords I'm used to
+TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programming | Mentoring
+<br />
 
 <img align="left" height="26px" title="C#" alt="C#" src="./assets/csharp-logo.png" />
 <img align="left" height="26px" title="Unity" alt="Unity" src="./assets/unity-logo.png" />
@@ -21,8 +23,6 @@
 <img align="left" height="26px" title="UML" alt="UML" src="./assets/uml-logo.png" />
 <img align="left" height="26px" title="Steam" alt="Steam" src="./assets/steam-logo.png" />
 
-<br />
-TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programming | Mentoring
 
 ## My articles:
 
