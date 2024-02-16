@@ -7,7 +7,7 @@
 * 🎮 Software Craftperson, Game developer.
 * 🏛️ Strong interest in well-known, established software principles.
 * 🤝 Team culture as a cornerstone.
-* 🔥 Check my games on itch.io! [Culoextremo](https://culoextremo.itch.io/)
+* 🔥 Check my games on [My Itch.io page](https://culoextremo.itch.io/)! 
 
 ## Technologies / Buzzwords I'm used to
 TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programming | Mentoring
