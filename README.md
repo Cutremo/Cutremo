@@ -21,9 +21,7 @@
 <img align="left" height="26px" title="UML" alt="UML" src="./assets/uml-logo.png" />
 <img align="left" height="26px" title="Steam" alt="Steam" src="./assets/steam-logo.png" />
 
-
-
-TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programming | Mentoring
+> TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programming | Mentoring
 
 ## My articles:
 
