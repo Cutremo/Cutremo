@@ -25,6 +25,7 @@ TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programmi
 
 <br />
 <br />
+
 ---
 
 ## My articles:
