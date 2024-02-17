@@ -35,6 +35,7 @@ TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programmi
 * [[EN/ES] Jintanjaphore-driven naming (formerly "jakhdjkahsd")](https://www.linkedin.com/pulse/enes-jintanjaphore-driven-naming-formerly-jakhdjkahsd-guzm%25C3%25A1n-velasco-f2xlf/?trackingId=C97cgbprQumTvGy7PpJxeA%3D%3D)
 * [[EN/ES] Guild Based Software](https://www.linkedin.com/pulse/enes-guild-based-software-alejandro-lozano-jim%2525C3%2525A9nez-ev1jf%3FtrackingId=I%252BASIZZxQH25r1yEuorHeA%253D%253D/?trackingId=I%2BASIZZxQH25r1yEuorHeA%3D%3D)
 * [Los videojuegos: Ocio o negocio](https://medium.com/@culoextremo/los-videojuegos-ocio-o-negocio-ba08b020005b)
+* [[EN/ES] OKRs in events](https://www.linkedin.com/pulse/enes-okrs-events-iv%C3%A1n-moreno-garc%C3%ADa-fresneda-wygsf/)
 
 ---
 
