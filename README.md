@@ -19,11 +19,11 @@ TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programmi
 <img align="left" height="26px" title="Go" alt="Go" src="./assets/go-logo.png" />
 <img align="left" height="26px" title="Html Css Js" alt="Html Css Js" src="./assets/html-css-js-logo.png" />
 <img align="left" height="26px" title="TS" alt="TS" src="./assets/ts-logo.png" />
+<img align="left" height="26px" title="React" alt="React" src="./assets/react-logo.png" />
 <img align="left" height="26px" title="Git" alt="Git" src="./assets/git-logo.png" />
 <img align="left" height="26px" title="NUnit" alt="NUnit" src="./assets/nunit-logo.png" />
 <img align="left" height="26px" title="UML" alt="UML" src="./assets/uml-logo.png" />
 <img align="left" height="26px" title="Steam" alt="Steam" src="./assets/steam-logo.png" />
-<img align="left" height="26px" title="Steam" alt="Steam" src="./assets/react-logo" />
 
 <br />
 <br />
