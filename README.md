@@ -10,7 +10,7 @@
 * 🔥 Check my games on [My Itch.io page](https://culoextremo.itch.io/)! 
 
 ## Technologies / Buzzwords I'm used to
-TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programming | Mentoring
+TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programming | Mentoring | Clean Code | TBD 
 <br />
 
 <img align="left" height="26px" title="C#" alt="C#" src="./assets/csharp-logo.png" />
@@ -23,6 +23,7 @@ TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programmi
 <img align="left" height="26px" title="NUnit" alt="NUnit" src="./assets/nunit-logo.png" />
 <img align="left" height="26px" title="UML" alt="UML" src="./assets/uml-logo.png" />
 <img align="left" height="26px" title="Steam" alt="Steam" src="./assets/steam-logo.png" />
+<img align="left" height="26px" title="Steam" alt="Steam" src="./assets/react-logo" />
 
 <br />
 <br />
