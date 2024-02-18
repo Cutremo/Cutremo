@@ -55,7 +55,6 @@ TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programmi
 * Team of Teams: New Rules of Engagement for a Complex World; Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
 * The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
 * Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations; Nicole Forsgren PhD, Jez Humble, Gene Kim
-* Planning Extreme Programming; Kent Beck, Martin Fowler
 
 📕 Previous readings:
 
@@ -82,6 +81,7 @@ TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programmi
 * Tidy First?: A Personal Exercise in Empirical Software Design; Kent Beck
 * Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh. 🚀️
 * Idea Flow: How to Measure the PAIN in Software Development; Arty Starr. ⭐️ 🚀️
+* Planning Extreme Programming; Kent Beck, Martin Fowler
 
 🔍 Next readings:
 
