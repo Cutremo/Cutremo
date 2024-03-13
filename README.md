@@ -37,6 +37,7 @@ TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programmi
 * [[EN/ES] Guild Based Software](https://www.linkedin.com/pulse/enes-guild-based-software-alejandro-lozano-jim%2525C3%2525A9nez-ev1jf%3FtrackingId=I%252BASIZZxQH25r1yEuorHeA%253D%253D/?trackingId=I%2BASIZZxQH25r1yEuorHeA%3D%3D)
 * [Los videojuegos: Ocio o negocio](https://medium.com/@culoextremo/los-videojuegos-ocio-o-negocio-ba08b020005b)
 * [[EN/ES] OKRs in events](https://www.linkedin.com/pulse/enes-okrs-events-iv%C3%A1n-moreno-garc%C3%ADa-fresneda-wygsf/)
+* [Knowledge Commits; a new powerful learning tool [EN/ES]](https://www.linkedin.com/pulse/knowledge-commits-new-powerful-learning-tool-enes-siendones-sillero-ij1lc/)
 
 ---
 
