@@ -35,9 +35,11 @@ TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programmi
 * [Katandem, a proposed practice for code retreats](https://www.linkedin.com/pulse/katandem-proposed-practice-code-retreats-%25C3%25A1ngel-siendones-sillero/?trackingId=6X6faDtsSQOCrA82riWTYA%3D%3D)
 * [[EN/ES] Jintanjaphore-driven naming (formerly "jakhdjkahsd")](https://www.linkedin.com/pulse/enes-jintanjaphore-driven-naming-formerly-jakhdjkahsd-guzm%25C3%25A1n-velasco-f2xlf/?trackingId=C97cgbprQumTvGy7PpJxeA%3D%3D)
 * [[EN/ES] Guild Based Software](https://www.linkedin.com/pulse/enes-guild-based-software-alejandro-lozano-jim%2525C3%2525A9nez-ev1jf%3FtrackingId=I%252BASIZZxQH25r1yEuorHeA%253D%253D/?trackingId=I%2BASIZZxQH25r1yEuorHeA%3D%3D)
-* [Los videojuegos: Ocio o negocio](https://medium.com/@culoextremo/los-videojuegos-ocio-o-negocio-ba08b020005b)
 * [[EN/ES] OKRs in events](https://www.linkedin.com/pulse/enes-okrs-events-iv%C3%A1n-moreno-garc%C3%ADa-fresneda-wygsf/)
-* [Knowledge Commits; a new powerful learning tool [EN/ES]](https://www.linkedin.com/pulse/knowledge-commits-new-powerful-learning-tool-enes-siendones-sillero-ij1lc/)
+* [[EN/ES] Knowledge Commits; a new powerful learning tool ](https://www.linkedin.com/pulse/knowledge-commits-new-powerful-learning-tool-enes-siendones-sillero-ij1lc/)
+
+* [[ES] Los videojuegos: Ocio o negocio](https://medium.com/@culoextremo/los-videojuegos-ocio-o-negocio-ba08b020005b)
+* [[ES] Juegos de jam sin terminar pero con menú de opciones: Hablemos del valor](https://medium.com/@culoextremo/juegos-de-jam-sin-terminar-pero-con-men%C3%BA-de-opciones-hablemos-del-valor-1b15daaf2275)
 
 ---
 
