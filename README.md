@@ -11,21 +11,13 @@
 
 ## Technologies / Buzzwords I'm used to
 TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programming | Mentoring | Clean Code | TBD 
-<br />
 
-<img align="left" height="26px" title="C#" alt="C#" src="./assets/csharp-logo.png" />
-<img align="left" height="26px" title="Unity" alt="Unity" src="./assets/unity-logo.png" />
-<img align="left" height="26px" title="C++" alt="C++" src="./assets/c++-logo.png" />
-<img align="left" height="26px" title="Go" alt="Go" src="./assets/go-logo.png" />
-<img align="left" height="26px" title="Html Css Js" alt="Html Css Js" src="./assets/html-css-js-logo.png" />
-<img align="left" height="26px" title="TS" alt="TS" src="./assets/ts-logo.png" />
-<img align="left" height="26px" title="React" alt="React" src="./assets/react-logo.png" />
-<img align="left" height="26px" title="Git" alt="Git" src="./assets/git-logo.png" />
-<img align="left" height="26px" title="NUnit" alt="NUnit" src="./assets/nunit-logo.png" />
-<img align="left" height="26px" title="UML" alt="UML" src="./assets/uml-logo.png" />
-<img align="left" height="26px" title="Steam" alt="Steam" src="./assets/steam-logo.png" />
+* Tech Stack: Unity | C# | C++ | WPF | F# | React | TS | HTML | CSS  | Docker | GO 
+* Other Technologies: XUnit | NUnit | Addressables | Fluent assertions | Sonarqube | Playfab | Firebase | Atlassian | UML | Android | IOS | Steamworks |  Git  | Addressables 
+* Software: TDD |  XP | DDD | Trunk Based Development | Refactoring | Test automation | Pair/Mob Programming | Software Architecture | SOLID  |  Functional Programming | Tool Programming | CI/CD | Clean Code | Design patterns | Agile | Lean 
+* Game Development:  PC / Console Game development | Tool Programming | Mobile game development | UI Design | ECS | Networked Games | Fast prototyping
+* Other Skills: Event Organizing | Onboarding | Professional Mentoring 
 
-<br />
 <br />
 
 ---
