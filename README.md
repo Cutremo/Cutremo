@@ -9,12 +9,10 @@
 * 🤝 Team culture as a cornerstone.
 * 🔥 Check my games on [My Itch.io page](https://culoextremo.itch.io/)! 
 
-## Technologies / Buzzwords I'm used to
-TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programming | Mentoring | Clean Code | TBD 
-
+## Skills
 * Tech Stack: Unity | C# | C++ | WPF | F# | React | TS | HTML | CSS  | Docker | GO 
 * Other Technologies: XUnit | NUnit | Addressables | Fluent assertions | Sonarqube | Playfab | Firebase | Atlassian | UML | Android | IOS | Steamworks |  Git  | Addressables 
-* Software: TDD |  XP | DDD | Trunk Based Development | Refactoring | Test automation | Pair/Mob Programming | Software Architecture | SOLID  |  Functional Programming | Tool Programming | CI/CD | Clean Code | Design patterns | Agile | Lean 
+* Software: **TDD** |  **XP** | **DDD** | **Trunk Based Development** | **Refactoring** | **Test automation** | **Pair/Mob Programming** | Software Architecture | SOLID  |  Functional Programming | Tool Programming | CI/CD | Clean Code | Design patterns | Agile | Lean 
 * Game Development:  PC / Console Game development | Tool Programming | Mobile game development | UI Design | ECS | Networked Games | Fast prototyping
 * Other Skills: Event Organizing | Onboarding | Professional Mentoring 
 
