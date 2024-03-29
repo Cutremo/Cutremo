@@ -114,10 +114,6 @@ TDD | CICD | XP | Lean | DDD | Agile | Ensemble/Mob Programming | Pair Programmi
 * What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry; Steven Levy
 * The Ghost of the Executed Engineer: Technology and the Fall of the Soviet Union; Loren R. Graham
 
-⚽ Dropped
-
-* C++ for C# Developers; Jackson Dustan.
-
 ---
 
 <br />
