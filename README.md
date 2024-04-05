@@ -9,7 +9,7 @@
 * 🔥 Check my games on [My Itch.io page](https://culoextremo.itch.io/)! 
 
 ## Listen to the Software Engineering Podcast I cohost (Spanish):
-[Ensemble Podcasting on Spotify!](https://open.spotify.com/show/0sa3ACEoxLMy5NH7sisXVD?si=d748322aa0c8419e)
+* [Ensemble Podcasting on Spotify!](https://open.spotify.com/show/0sa3ACEoxLMy5NH7sisXVD?si=d748322aa0c8419e)
 
 ## My articles:
 
