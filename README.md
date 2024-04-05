@@ -8,6 +8,9 @@
 * 🤝 Team culture as a cornerstone.
 * 🔥 Check my games on [My Itch.io page](https://culoextremo.itch.io/)! 
 
+## Listen to the Software Engineering Podcast I cohost (Spanish):
+[Ensemble Podcasting on Spotify!](https://open.spotify.com/show/0sa3ACEoxLMy5NH7sisXVD?si=d748322aa0c8419e)
+
 ## My articles:
 
 * [Katandem, a proposed practice for code retreats](https://www.linkedin.com/pulse/katandem-proposed-practice-code-retreats-%25C3%25A1ngel-siendones-sillero/?trackingId=6X6faDtsSQOCrA82riWTYA%3D%3D)
