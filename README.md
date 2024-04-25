@@ -22,6 +22,7 @@
 * [[ES] Juegos de jam sin terminar pero con menú de opciones: Hablemos del valor](https://medium.com/@culoextremo/juegos-de-jam-sin-terminar-pero-con-men%C3%BA-de-opciones-hablemos-del-valor-1b15daaf2275)
 * [[ES] Agile en videojuegos pero sin vender humo](https://medium.com/@culoextremo/agile-en-videojuegos-pero-sin-vender-humo-2d464397045c)
 * [[ES] ¿Cuándo es “sobreingeniería” y cuándo no lo es en un videojuego?](https://medium.com/@culoextremo/cuando-es-sobreingenier%C3%ADa-y-cu%C3%A1ndo-no-lo-es-en-un-videojuego-d32a3b906d0e)
+* [[ES] El muro de la ignorancia entre departamentos en GameDev](https://medium.com/@culoextremo/el-muro-de-la-ignorancia-entre-departamentos-en-gamedev-9ec83cf1d58a)
 
 ---
 
