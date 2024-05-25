@@ -85,6 +85,7 @@ Event Organizing | Onboarding | Professional Mentoring
 * Unified Software Development Process; Ivar Jacobson, Grady Booch, James Rumbaugh. 🚀️
 * Idea Flow: How to Measure the PAIN in Software Development; Arty Starr. ⭐️ 🚀️
 * Planning Extreme Programming; Kent Beck, Martin Fowler
+* C++ For C# Developers; Jackson Dunstan
 * Effective C++: 55 Specific Ways to Improve Your Programs and Designs; Scott Meyers
 
 🔍 Next readings:
