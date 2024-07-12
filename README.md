@@ -8,14 +8,14 @@
 * 🤝 Team culture as a cornerstone.
 * 🔥 Check my games on [My Itch.io page](https://culoextremo.itch.io/)! 
 
-## Listen to the Software Engineering Podcast I cohost (Spanish):
-* [Ensemble Podcasting on Spotify!](https://open.spotify.com/show/0sa3ACEoxLMy5NH7sisXVD?si=d748322aa0c8419e)
+## Listen to the Software Engineering Podcast I cohost:
+* [[ES] Ensemble Podcasting on Spotify!](https://open.spotify.com/show/0sa3ACEoxLMy5NH7sisXVD?si=d748322aa0c8419e)
 
 ## Watch one of my talks:
-* [Techniques for learning software collaboratively (Spanish)](https://www.youtube.com/watch?v=qtUrM75OpM4&)
+* [[ES] Techniques for learning software collaboratively](https://www.youtube.com/watch?v=qtUrM75OpM4&)
 ## My articles:
 
-* [Katandem, a proposed practice for code retreats](https://www.linkedin.com/pulse/katandem-proposed-practice-code-retreats-%25C3%25A1ngel-siendones-sillero/?trackingId=6X6faDtsSQOCrA82riWTYA%3D%3D)
+* [[EN/ES] Katandem, a proposed practice for code retreats](https://www.linkedin.com/pulse/katandem-proposed-practice-code-retreats-%25C3%25A1ngel-siendones-sillero/?trackingId=6X6faDtsSQOCrA82riWTYA%3D%3D)
 * [[EN/ES] Jintanjaphore-driven naming (formerly "jakhdjkahsd")](https://www.linkedin.com/pulse/enes-jintanjaphore-driven-naming-formerly-jakhdjkahsd-guzm%25C3%25A1n-velasco-f2xlf/?trackingId=C97cgbprQumTvGy7PpJxeA%3D%3D)
 * [[EN/ES] Guild Based Software](https://www.linkedin.com/pulse/enes-guild-based-software-alejandro-lozano-jim%2525C3%2525A9nez-ev1jf%3FtrackingId=I%252BASIZZxQH25r1yEuorHeA%253D%253D/?trackingId=I%2BASIZZxQH25r1yEuorHeA%3D%3D)
 * [[EN/ES] OKRs in events](https://www.linkedin.com/pulse/enes-okrs-events-iv%C3%A1n-moreno-garc%C3%ADa-fresneda-wygsf/)
