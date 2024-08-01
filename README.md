@@ -13,6 +13,7 @@
 
 ## Watch one of my talks:
 * [[ES] Techniques for learning software collaboratively](https://www.youtube.com/watch?v=qtUrM75OpM4&)
+  
 ## My articles:
 
 * [[EN/ES] Katandem, a proposed practice for code retreats](https://www.linkedin.com/pulse/katandem-proposed-practice-code-retreats-%25C3%25A1ngel-siendones-sillero/?trackingId=6X6faDtsSQOCrA82riWTYA%3D%3D)
@@ -25,6 +26,13 @@
 * [[ES] Agile en videojuegos pero sin vender humo](https://medium.com/@culoextremo/agile-en-videojuegos-pero-sin-vender-humo-2d464397045c)
 * [[ES] ¿Cuándo es “sobreingeniería” y cuándo no lo es en un videojuego?](https://medium.com/@culoextremo/cuando-es-sobreingenier%C3%ADa-y-cu%C3%A1ndo-no-lo-es-en-un-videojuego-d32a3b906d0e)
 * [[ES] El muro de la ignorancia entre departamentos en GameDev](https://medium.com/@culoextremo/el-muro-de-la-ignorancia-entre-departamentos-en-gamedev-9ec83cf1d58a)
+
+## Communities I organize:
+* [[ES/EN] MalagaJam: <i>Largest Global Game Jam site in the world!</i> ](https://malagajam.com/)
+* [[ES/EN] Guadalindie Games Fair](https://guadalindie.com/)
+* [[ES] Software Crafters in Videogames Spain](https://discord.gg/NFpTTdxUJy)
+* [[ES] Gamedev Crafters: <i>XP Mentorships for game developers!</i>](https://discord.gg/NFpTTdxUJy)
+
 
 ---
 
