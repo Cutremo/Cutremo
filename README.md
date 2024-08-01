@@ -31,8 +31,7 @@
 * [[ES/EN] MalagaJam: <i>Largest Global Game Jam site in the world!</i> ](https://malagajam.com/)
 * [[ES/EN] Guadalindie Games Fair](https://guadalindie.com/)
 * [[ES] Software Crafters in Videogames Spain](https://discord.gg/NFpTTdxUJy)
-* [[ES] Gamedev Crafters: <i>XP Mentorships for game developers!</i>](https://discord.gg/NFpTTdxUJy)
-
+* [[ES] Gamedev Crafters: <i>XP Mentorships for game developers!</i>](https://www.linkedin.com/company/gamedev-crafters/)
 
 ---
 
