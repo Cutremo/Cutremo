@@ -96,6 +96,7 @@ Event Organizing | Onboarding | Professional Mentoring
 * Planning Extreme Programming; Kent Beck, Martin Fowler
 * C++ For C# Developers; Jackson Dunstan
 * Effective C++: 55 Specific Ways to Improve Your Programs and Designs; Scott Meyers
+* Talking with Tech Leads From Novices to Practitioners; Patrick Kua
 
 🔍 Next readings:
 
