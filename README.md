@@ -133,10 +133,10 @@ Event Organizing | Onboarding | Professional Mentoring
 
 ### GitHub
 
-![Culoextremo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Culoextremo&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&count_private=true&hide=stars&theme=midnight-purple)
+![Cutremo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cutremo&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&count_private=true&hide=stars&theme=midnight-purple)
 
 ### Technologies used in these repos
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Culoextremo&hide_border=false&theme=midnight-purple&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cutremo&hide_border=false&theme=midnight-purple&layout=compact)
 
 <br />
