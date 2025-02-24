@@ -20,8 +20,9 @@
 * [[ES] Software Crafters in Videogames Spain](https://discord.gg/NFpTTdxUJy)
 * [[ES] Gamedev Crafters: <i>XP Mentorships for game developers!</i>](https://www.linkedin.com/company/gamedev-crafters/)
 
-## Inspiring people citing me:
-* [Kevling Henney - Technical Neglect => Cites me talking about legacy processes and legacy code  ](https://youtu.be/MdWH9lbgEws?si=YGlfFVEvvGucrH-a)
+## Find my thoughts about software development also on:
+* [[ES] Talking about Software(Thoughtworks): Beyond Coding videogames: agile development and XP](https://www.thoughtworks.com/es-es/insights/podcasts/hablando-software/mas-alla-del-codigo-con-videojuegos--desarrollo-agil-y-xp)
+* [[EN] Kevling Henney - Technical Neglect => Cites me talking about legacy processes and legacy code](https://youtu.be/MdWH9lbgEws?si=YGlfFVEvvGucrH-a)
 
 ## My articles:
 
