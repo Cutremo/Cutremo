@@ -101,6 +101,7 @@ Event Organizing | Onboarding | Professional Mentoring
 * C++ For C# Developers; Jackson Dunstan
 * Effective C++: 55 Specific Ways to Improve Your Programs and Designs; Scott Meyers
 * Talking with Tech Leads From Novices to Practitioners; Patrick Kua
+* Implementing Lean Software Development: From Concept to Cash; Mary Poppendieck, Tom Poppendieck
 
 🔍 Next readings:
 
