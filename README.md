@@ -36,6 +36,7 @@
 * [[ES] Agile en videojuegos pero sin vender humo](https://medium.com/@culoextremo/agile-en-videojuegos-pero-sin-vender-humo-2d464397045c)
 * [[ES] ¿Cuándo es “sobreingeniería” y cuándo no lo es en un videojuego?](https://medium.com/@culoextremo/cuando-es-sobreingenier%C3%ADa-y-cu%C3%A1ndo-no-lo-es-en-un-videojuego-d32a3b906d0e)
 * [[ES] El muro de la ignorancia entre departamentos en GameDev](https://medium.com/@culoextremo/el-muro-de-la-ignorancia-entre-departamentos-en-gamedev-9ec83cf1d58a)
+* [[ES] Desmitificando la “Inyección de dependencias”](https://angelsiendones.medium.com/desmitificando-la-inyecci%C3%B3n-de-dependencias-143b0fa5866c)
 
 ---
 
