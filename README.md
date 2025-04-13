@@ -1,7 +1,7 @@
 ### Hello! I'm [Ángel Siendones Sillero](https://www.linkedin.com/in/angel-siendones-sillero/)! (/0.0)/
 
 ## About me
-* 🗺 Spanish, English, 日本語.
+* 🗺 Spanish, English.
 * 🏳️‍🌈 Any Pronouns.
 * 🎮 Software Craftperson, Game developer.
 * 🏛️ Strong interest in well-known, established software principles.
@@ -40,22 +40,6 @@
 
 ---
 
-## Skills
-### Tech Stack
-Unity | C# | C++ | WPF | F# | React | TS | HTML | CSS  | Docker | GO 
-### Software Crafting Skills
-**TDD** |  **XP** | **DDD** | **Trunk Based Development** | **Refactoring** | **Test automation** | **Pair/Mob Programming** | Software Architecture | SOLID  |  Functional Programming | Tool Programming | CI/CD | Clean Code | Design patterns | Agile | Lean 
-### Other Technologies
-XUnit | NUnit | Addressables | Fluent assertions | Sonarqube | Playfab | Firebase | Atlassian | UML | Android | IOS | Steamworks |  Git  | Addressables 
-### Game Development
-PC / Console Game development | Tool Programming | Mobile game development | UI Design | ECS | Networked Games | Fast prototyping
-### Other Skills
-Event Organizing | Onboarding | Professional Mentoring 
-
-<br />
-
----
-
 ## Readings
 
 📚 Index:
@@ -67,11 +51,10 @@ Event Organizing | Onboarding | Professional Mentoring
 
 📖 Current readings:
 
-* Object-Oriented Programming. An Objetive Sense of Style; K.Lieberherr, I.Holland, A.Riel
-* Assuring Good Style for Object-Oriented Programs; K.Lieberherr & I.Holland
-* Team of Teams: New Rules of Engagement for a Complex World; Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
 * The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
 * Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations; Nicole Forsgren PhD, Jez Humble, Gene Kim
+* Software Economics; Luis Artola
+* Game Engine Architecture; Jason Gregory.
 
 📕 Previous readings:
 
@@ -103,6 +86,7 @@ Event Organizing | Onboarding | Professional Mentoring
 * Effective C++: 55 Specific Ways to Improve Your Programs and Designs; Scott Meyers
 * Talking with Tech Leads From Novices to Practitioners; Patrick Kua
 * Implementing Lean Software Development: From Concept to Cash; Mary Poppendieck, Tom Poppendieck
+* Team of Teams: New Rules of Engagement for a Complex World; Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
 
 🔍 Next readings:
 
@@ -124,7 +108,6 @@ Event Organizing | Onboarding | Professional Mentoring
 * The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 * Code Complete, 2nd Edition; Steve McConnell.
 * A Playful Production Process: For Game Designers (and Everyone); Richard Lemarchand.
-* Game Engine Architecture; Jason Gregory.
 * Unity Shaders Bible; Fabrizio Espíndola.
 * Surviving Object Oriented Projects; Alistair Cockburn.
 * Measuring and Managing Performance in Organizations; Robert D. Austin, Tom DeMarco, Timothy Lister
