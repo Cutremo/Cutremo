@@ -13,6 +13,7 @@
 
 ## Watch one of my talks:
 * [[ES] Techniques for learning software collaboratively](https://www.youtube.com/watch?v=qtUrM75OpM4&)
+* [[ES] Introduction to domain modeling (without practical section)](https://www.youtube.com/watch?v=GaV6fjoCL7I&list=PLQxC2n1f60PT_NXzduO7x8QRM-mYaB2mP&index=2)
 
 ## Communities I organize:
 * [[ES/EN] MalagaJam: <i>Largest Global Game Jam site in the world!</i> ](https://malagajam.com/)
