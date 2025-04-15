@@ -87,6 +87,7 @@
 * Talking with Tech Leads From Novices to Practitioners; Patrick Kua
 * Implementing Lean Software Development: From Concept to Cash; Mary Poppendieck, Tom Poppendieck
 * Team of Teams: New Rules of Engagement for a Complex World; Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
+* Grokking Simplicity: Taming complex software with functional thinking; Eric Normand
 
 🔍 Next readings:
 
